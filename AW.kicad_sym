@@ -1101,7 +1101,7 @@
     (property "Value" "22uH/0.72A" (at 1.905 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "AW:IND_TAIYO_NRS4018_TAY" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf" (at 0 0 0)
@@ -1144,9 +1144,6 @@
       )
     )
     (symbol "22uH/0.72A_1_1"
-      (text "No FP" (at 3.81 -1.27 0)
-        (effects (font (size 1.27 1.27)))
-      )
       (pin passive line (at 0 3.81 270) (length 1.27)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
