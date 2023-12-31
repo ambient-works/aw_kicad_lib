@@ -65,4 +65,9 @@
     (thermal_bridge_angle 45) (tstamp da2f3785-78b2-4429-b315-b2e96f76fde6))
   (pad "12" smd rect (at -0.25 -0.95) (size 0.25 0.675) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 1a7e52ee-e67f-462b-a27e-a84e0dc9a65c))
+  (model "${AW_LIBS}/AW_3D/VLGA-12.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
