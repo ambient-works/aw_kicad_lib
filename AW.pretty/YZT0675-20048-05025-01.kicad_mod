@@ -283,4 +283,15 @@
 		(remove_unused_layers no)
 		(uuid "e6841783-04bf-4813-b76c-c6e8d4bf3de8")
 	)
+	(model "${AW_LIBS}/AW_3D/contact 5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
