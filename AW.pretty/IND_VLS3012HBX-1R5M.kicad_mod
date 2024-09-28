@@ -34,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -46,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -58,6 +60,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -176,7 +179,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "9cabb04a-e0dc-402b-8594-84c8b4743791")
 	)
-	(model "${AW_LIB}/AW_3D/VLS3012HBX-1R5M.step"
+	(model "${AW_LIBS}/AW_3D/VLS3012HBX-1R5M.step"
 		(offset
 			(xyz 0 0 0)
 		)

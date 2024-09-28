@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -288,7 +291,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "ca706c38-34ca-434d-960d-7b1e5c754827")
 	)
-	(model "${AW_LIB}/AW_3D/BM06B-GHS-TBT.STEP"
+	(model "${AW_LIBS}/AW_3D/BM06B-GHS-TBT.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

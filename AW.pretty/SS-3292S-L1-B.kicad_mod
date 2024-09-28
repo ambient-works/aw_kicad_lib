@@ -225,7 +225,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "a0cde37c-d375-411b-b711-9194bb80fd75")
 	)
-	(model "${AW_LIB}/AW_3D/ss-3292s-l3-x v1.step"
+	(model "${AW_LIBS}/AW_3D/ss-3292s-l3-x v1.step"
 		(offset
 			(xyz 0 0 0)
 		)

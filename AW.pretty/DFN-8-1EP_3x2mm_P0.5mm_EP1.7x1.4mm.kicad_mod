@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -289,7 +292,7 @@
 		(zone_connect 2)
 		(uuid "9d2bca9b-eaf6-4691-9ccc-4018d487347e")
 	)
-	(model "${AW_LIB}/AW_3D/DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm.step"
+	(model "${AW_LIBS}/AW_3D/DFN-8-1EP_3x2mm_P0.5mm_EP1.75x1.45mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

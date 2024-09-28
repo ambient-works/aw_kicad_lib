@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -286,7 +289,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "dda382d7-4be7-45f9-8d78-bc5f99f33afd")
 	)
-	(model "${AW_LIB}/AW_3D/PEC11S-9213K-S0015.stp"
+	(model "${AW_LIBS}/AW_3D/PEC11S-9213K-S0015.stp"
 		(offset
 			(xyz -1.78 3.8 -0.5)
 		)

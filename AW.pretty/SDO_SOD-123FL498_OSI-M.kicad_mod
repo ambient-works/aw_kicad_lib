@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -420,7 +423,7 @@
 			)
 		)
 	)
-	(model "${AW_LIB}/AW_3D/SDO_SOD-123FL_498__OSI.step"
+	(model "${AW_LIBS}/AW_3D/SDO_SOD-123FL_498__OSI.step"
 		(offset
 			(xyz 0 0 0)
 		)

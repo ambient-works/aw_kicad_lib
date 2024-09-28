@@ -273,7 +273,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "b2068643-d0b5-43fb-85ed-49d1c7d6a0bb")
 	)
-	(model "${AW_LIB}/AW_3D/SMD,7.2x6.6mm Inductor.step"
+	(model "${AW_LIBS}/AW_3D/SMD,7.2x6.6mm Inductor.step"
 		(offset
 			(xyz 0 0 0)
 		)

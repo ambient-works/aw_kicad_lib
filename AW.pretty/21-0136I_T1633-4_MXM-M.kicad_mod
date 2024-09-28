@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -1247,7 +1250,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "13b5f44f-e6da-4f89-9d62-f33a760b03ef")
 	)
-	(model "${AW_LIB}/AW_3D/21-0136I_T1633-4_MXM.step"
+	(model "${AW_LIBS}/AW_3D/21-0136I_T1633-4_MXM.step"
 		(offset
 			(xyz 0 0 0)
 		)
