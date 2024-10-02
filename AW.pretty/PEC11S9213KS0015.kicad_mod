@@ -289,9 +289,9 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "dda382d7-4be7-45f9-8d78-bc5f99f33afd")
 	)
-	(model "${AW_LIBS}/AW_3D/PEC11S-9213K-S0015.stp"
+	(model "${AW_LIBS}/AW_3D/PEC11S-929F Rev 2 v1.step"
 		(offset
-			(xyz -1.78 3.8 -0.5)
+			(xyz -1.75 3.85 -0.5)
 		)
 		(scale
 			(xyz 1 1 1)
