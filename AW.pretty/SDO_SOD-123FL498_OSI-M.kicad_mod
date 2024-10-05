@@ -395,34 +395,6 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "0d7c05dc-e0a7-4c9a-8b27-73d7406ae6df")
 	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layer "F.Cu")
-		(uuid "a93ad554-5c54-4589-b896-8f11aebee1f0")
-		(hatch full 0.508)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.254)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads allowed)
-			(copperpour not_allowed)
-			(footprints allowed)
-		)
-		(fill
-			(thermal_gap 0.508)
-			(thermal_bridge_width 0.508)
-		)
-		(polygon
-			(pts
-				(xy -0.9144 -0.8509) (xy 0.9144 -0.8509) (xy 0.9144 0.8509) (xy -0.9144 0.8509)
-			)
-		)
-	)
 	(model "${AW_LIBS}/AW_3D/SDO_SOD-123FL_498__OSI.step"
 		(offset
 			(xyz 0 0 0)
