@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "CONN4_BM04B-SRSS_JST"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -65,17 +65,6 @@
 		)
 	)
 	(attr smd)
-	(fp_circle
-		(center -3.7592 1.882201)
-		(end -3.3782 1.882201)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill none)
-		(layer "B.SilkS")
-		(uuid "5ce1dd18-99d9-4a8f-a895-19e3e4903752")
-	)
 	(fp_line
 		(start -3.1242 0.587441)
 		(end -3.1242 1.5748)
@@ -125,17 +114,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "34c19cda-e998-4d21-8f42-336e3be5c934")
-	)
-	(fp_circle
-		(center -3.7592 1.882201)
-		(end -3.3782 1.882201)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "fc139f58-c6b6-4890-9ba4-d6b221a6a591")
 	)
 	(fp_line
 		(start -3.7017 -1.904299)

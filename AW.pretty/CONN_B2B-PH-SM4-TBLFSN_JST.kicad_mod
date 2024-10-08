@@ -68,17 +68,6 @@
 		)
 	)
 	(attr smd)
-	(fp_circle
-		(center -5.8801 1.244801)
-		(end -5.4991 1.244801)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill none)
-		(layer "B.SilkS")
-		(uuid "938a9723-8266-4477-9316-a1b3316a3513")
-	)
 	(fp_line
 		(start -4.1021 -3.6322)
 		(end -4.1021 -2.88734)
@@ -158,17 +147,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "f2948148-ac6e-47aa-88ac-16bbc992b372")
-	)
-	(fp_circle
-		(center -5.8801 1.244801)
-		(end -5.4991 1.244801)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "3982a471-fcab-4da9-811b-699cdbb50a26")
 	)
 	(fp_line
 		(start -5.203398 -3.7592)
