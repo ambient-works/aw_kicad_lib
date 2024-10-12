@@ -367,6 +367,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C325377"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -894,6 +903,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C133086"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(effects
@@ -1194,6 +1212,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C60490"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -1336,6 +1363,15 @@
 			)
 		)
 		(property "MPN" "CC0402KRX7R9BB103"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C60133"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1490,6 +1526,15 @@
 			)
 		)
 		(property "Type" "SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C77070"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1853,6 +1898,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C106997"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(effects
@@ -2014,6 +2068,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2906900"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -2145,6 +2208,15 @@
 			)
 		)
 		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C102758"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2629,6 +2701,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C77009"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "cap capacitor"
 			(at 0 0 0)
 			(effects
@@ -2974,6 +3055,15 @@
 			)
 		)
 		(property "Type" "SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C321161"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3468,6 +3558,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" "C29277"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(property "ki_keywords" "cap capacitor"
@@ -4214,6 +4312,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2906931"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "R res resistor"
 			(at 0 0 0)
 			(effects
@@ -4345,6 +4452,15 @@
 			)
 		)
 		(property "MPN" "Any"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C310225"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4719,6 +4835,15 @@
 			)
 		)
 		(property "MPN" "GRM21BR61H475ME51L"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C162421"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5234,7 +5359,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC " "C5189962"
+		(property "LCSC" "C5189962"
 			(at 0 0 0)
 			(effects
 				(font
@@ -5420,6 +5545,15 @@
 			)
 		)
 		(property "Type" "SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2906874"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6448,6 +6582,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C461817"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "TVS 3.3V"
 			(at 0 0 0)
 			(effects
@@ -6628,6 +6771,15 @@
 		)
 		(property "Type" "SMD"
 			(at -2.54 11.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C469327"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8000,6 +8152,15 @@
 			)
 		)
 		(property "Type" "SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5366877"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10731,7 +10892,7 @@
 			(pin passive line
 				(at -2.54 -8.89 0)
 				(length 2.54)
-				(name "D+"
+				(name "CH1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10767,7 +10928,7 @@
 			(pin passive line
 				(at 17.78 -8.89 180)
 				(length 2.54)
-				(name "D+"
+				(name "CH1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10785,7 +10946,7 @@
 			(pin passive line
 				(at 17.78 -5.08 180)
 				(length 2.54)
-				(name "D-"
+				(name "CH2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10821,7 +10982,7 @@
 			(pin passive line
 				(at -2.54 -5.08 0)
 				(length 2.54)
-				(name "D-"
+				(name "CH2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11777,7 +11938,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C434425"
+		(property "LCSC" "C434425"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12322,6 +12483,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2682616"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "MAX17048G+"
 			(at 0 0 0)
 			(effects
@@ -12579,6 +12749,15 @@
 		)
 		(property "Type" "SMD"
 			(at 67.564 16.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C910544"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13214,6 +13393,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C896755"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "MBR120LSFT3G"
 			(at 0 0 0)
 			(effects
@@ -13683,6 +13871,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C3248220"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "MC3419_0_1"
 			(rectangle
 				(start 0 2.54)
@@ -13986,6 +14183,15 @@
 		)
 		(property "Type" "SMD"
 			(at 26.416 16.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C411870"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17142,6 +17348,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2689642"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "switch normally-open pushbutton push-button"
 			(at 0 0 0)
 			(effects
@@ -18424,6 +18639,15 @@
 			)
 		)
 		(property "Type" "SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C469327"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20858,6 +21082,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps63030.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1700764937929"
@@ -20898,6 +21123,15 @@
 		)
 		(property "MPN" "TPS63030DSKR"
 			(at 0 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C12462"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
