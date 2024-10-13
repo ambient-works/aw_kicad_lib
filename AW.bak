@@ -3566,6 +3566,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "ki_keywords" "cap capacitor"
@@ -5007,6 +5008,15 @@
 			)
 		)
 		(property "MPN" "GRM155R71H471KA01D"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5119300"
 			(at 0 0 0)
 			(effects
 				(font
