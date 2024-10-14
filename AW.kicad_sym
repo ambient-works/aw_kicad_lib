@@ -1534,7 +1534,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C77070"
+		(property "LCSC" "C15525"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2023,7 +2023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/cr.pdf?sfvrsn=574d41f6_14"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F1004T5E_C17514.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2032,7 +2032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Res 1M 1% 62mW 0402"
+		(property "Description" "Res 1M 1% 125mW 0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2068,7 +2068,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2906900"
+		(property "LCSC" "C17514"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3018,7 +3018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F220KT5E_C17521.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3045,7 +3045,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RMCF0805FT2R20"
+		(property "MPN" "0805W8F220KT5E "
 			(at 0 0 0)
 			(effects
 				(font
@@ -3063,7 +3063,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C321161"
+		(property "LCSC" "C17521"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6797,7 +6797,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C469327"
+		(property "LCSC" "C460976"
 			(at 0 0 0)
 			(effects
 				(font
