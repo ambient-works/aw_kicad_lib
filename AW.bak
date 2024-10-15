@@ -3018,7 +3018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010200_UNI-ROYAL-Uniroyal-Elec-0805W8F220KT5E_C17521.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3045,7 +3045,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RMCF0805FT2R20"
+		(property "MPN" "0805W8F220KT5E "
 			(at 0 0 0)
 			(effects
 				(font
@@ -3174,7 +3174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_CEC-Shenzhen-Zhenhua-Fu-Elec-PB2012-221-3A-f_C316275.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2310301642_Sunlord-UPZ2012U221-3R0TF_C56066.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3201,7 +3201,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PB2012-221/3A(f)"
+		(property "MPN" "UPZ2012U221-3R0TF "
 			(at 0 0 0)
 			(effects
 				(font
@@ -3211,6 +3211,15 @@
 			)
 		)
 		(property "Type" "SMD"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LSCS" "C56066"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4799,7 +4808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H475ME51-01.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2306211554_CCTC-TCC0805X5R475M500FT_C7393930.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4835,7 +4844,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GRM21BR61H475ME51L"
+		(property "MPN" "TCC0805X5R475M500FT"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4844,7 +4853,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C162421"
+		(property "LCSC" "C7393930"
 			(at 0 0 0)
 			(effects
 				(font
@@ -6547,7 +6556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AW:R0402"
+		(property "Footprint" "AW:CR_X1-DFN1006-2_DIO-M"
 			(at 0 -5.08 0)
 			(effects
 				(font
@@ -9303,7 +9312,7 @@
 			)
 		)
 	)
-	(symbol "FFC 24 Bottom 05B20L24T"
+	(symbol "FFC 24 Bottom AFC07-S24FCC-00"
 		(pin_names
 			(offset 1.016) hide)
 		(exclude_from_sim no)
@@ -9317,7 +9326,7 @@
 				)
 			)
 		)
-		(property "Value" "FFC 24 Bottom 05B20L24T"
+		(property "Value" "FFC 24 Bottom  AFC07-S24FCC-00"
 			(at -3.81 -59.69 0)
 			(effects
 				(font
@@ -9334,7 +9343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2312182156_HanElectricity-05B20L24T_C7422273.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304231848_JUSHUO-AFC07-S24FCC-00_C11057.pdf"
 			(at 2.54 6.35 0)
 			(effects
 				(font
@@ -9361,7 +9370,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "05B20L24T"
+		(property "MPN" " AFC07-S24FCC-00"
 			(at 12.7 1.27 0)
 			(effects
 				(font
@@ -9379,7 +9388,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C7422273"
+		(property "LCSC" "C11057"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9406,7 +9415,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "FFC 24 Bottom 05B20L24T_1_1"
+		(symbol "FFC 24 Bottom AFC07-S24FCC-00_1_1"
 			(rectangle
 				(start -1.27 6.35)
 				(end 1.27 -54.61)
