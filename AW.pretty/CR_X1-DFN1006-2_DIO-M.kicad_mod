@@ -191,7 +191,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "0efd4888-ea52-4c18-a900-5ac73eeabb8c")
 	)
-	(model "${AW_LIB}/AW_3D/CR_X1-DFN1006-2_DIO.step"
+	(model "${AW_LIBS}/AW_3D/CR_X1-DFN1006-2_DIO.step"
 		(offset
 			(xyz 0 0 0)
 		)
