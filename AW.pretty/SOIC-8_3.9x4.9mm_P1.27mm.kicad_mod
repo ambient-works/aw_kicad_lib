@@ -310,7 +310,7 @@
 		(roundrect_rratio 0.25)
 		(uuid "c2fd9c23-51fe-4d56-937d-4bf0631a3022")
 	)
-	(model "${AW_LIB}/AW_3D/SOIC-8_3.9x4.9mm_P1.27mm.step"
+	(model "${AW_LIBS}/AW_3D/SOIC-8_3.9x4.9mm_P1.27mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
