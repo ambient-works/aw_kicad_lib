@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "CON_533980271"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -254,30 +254,6 @@
 		)
 		(layer "F.Fab")
 		(uuid "28aaabaf-7710-452a-9121-8ede7239febc")
-	)
-	(fp_text user "PICOBLADE_1.25_SMT_VERT_TYPE_TIN_PLATING_-2_CKT"
-		(at -0.625003 -13.18 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "225c01bf-bca4-4b78-8e5e-fe7de8a5aea0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "533980271"
-		(at -0.625003 -15.72 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "3904bb83-fe83-4c02-9d19-bb228cf682f5")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(fp_text user "NOTE"
 		(at -4.449993 6.31 0)
