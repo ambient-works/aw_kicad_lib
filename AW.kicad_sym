@@ -3219,7 +3219,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" "C56066"
+		(property "LCSC" "C56066"
 			(at 0 0 0)
 			(effects
 				(font
