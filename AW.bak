@@ -367,7 +367,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C325377"
+		(property "LCSC" "C17168"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13378,7 +13378,7 @@
 			)
 		)
 		(property "Description" "LED 20mA 90mcd Colorless transparent lens Side sticker -30℃~+85℃ 605nm Orange 130° 75mW 2V SMD,1.2x1.6mm LED Indication"
-			(at 0 0 0)
+			(at 4.318 -4.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13414,7 +13414,7 @@
 			)
 		)
 		(property "LCSC" "C160472"
-			(at 0 0 0)
+			(at -0.254 4.318 0)
 			(effects
 				(font
 					(size 1.27 1.27)
