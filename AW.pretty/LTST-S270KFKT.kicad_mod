@@ -1,0 +1,157 @@
+(footprint "LTST-S270KFKT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.6 -9.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8bdc8001-a12b-43b0-a782-30ab05a8139b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LTST-S270KFKT"
+		(at -1.25 -6.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3a109bbe-50a5-467d-8c3f-a5adac43c36e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f0ae336-8642-4f21-948d-b9237080ffc9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b2931b5-5f4d-479a-8986-c41d8c17f317")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0ac1ad6-6b63-4796-ae9e-e5a50786b4c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.75 -0.8)
+		(end -0.35 -0.8)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "07494620-9221-4161-a030-089152566638")
+	)
+	(fp_line
+		(start -1.8 -0.8)
+		(end -1.8 1.06)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "378b98ef-a576-4a0d-a535-755575f3b7e8")
+	)
+	(fp_line
+		(start -1.8 -0.8)
+		(end 1.8 -0.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "93d46a51-fbc9-4395-9d1a-8221773a6e6c")
+	)
+	(fp_line
+		(start -1.8 1.06)
+		(end 1.8 1.06)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "00be0be3-03b0-4ae1-80e7-2e3c0e6760e2")
+	)
+	(fp_line
+		(start 1.8 -0.8)
+		(end 1.8 1.06)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "453cc121-49eb-47fc-9a73-a432c7e98a36")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1.5 -7.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4b9b15a2-c6f5-4868-ae0e-950760969e66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1 0)
+		(size 1.1 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "7ff21fee-05ab-4996-8c0a-5dadbb03dac1")
+	)
+	(pad "2" smd rect
+		(at -1 0)
+		(size 1.1 1.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b7ee36a2-8a5d-4b04-8981-df838a7aa1c7")
+	)
+	(model "${AW_LIB}/AW_3D/LTST-S270KFKT.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
