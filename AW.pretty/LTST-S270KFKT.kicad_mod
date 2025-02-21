@@ -143,7 +143,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "b7ee36a2-8a5d-4b04-8981-df838a7aa1c7")
 	)
-	(model "${AW_LIB}/AW_3D/LTST-S270KFKT.step"
+	(model "${AW_LIBS}/AW_3D/LTST-S270KFKT.step"
 		(offset
 			(xyz 0 0 0)
 		)
