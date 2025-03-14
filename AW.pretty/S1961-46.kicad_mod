@@ -211,14 +211,14 @@
 	)
 	(pad "1" smd rect
 		(at 0 0)
-		(size 2.25 3.7)
+		(size 3.7 2.25)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(thermal_bridge_angle 45)
 		(uuid "98c8d871-581d-4041-b738-1198e9aee197")
 	)
 	(model "${AW_LIB}/AW_3D/S1961-46.stp"
 		(offset
-			(xyz 0 1.6 0)
+			(xyz 0 1.55 0)
 		)
 		(scale
 			(xyz 1 1 1)
