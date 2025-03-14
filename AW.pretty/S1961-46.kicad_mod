@@ -216,7 +216,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "98c8d871-581d-4041-b738-1198e9aee197")
 	)
-	(model "${AW_LIB}/AW_3D/S1961-46.stp"
+	(model "${AW_LIBS}/AW_3D/S1961-46.stp"
 		(offset
 			(xyz 0 1.55 0)
 		)
