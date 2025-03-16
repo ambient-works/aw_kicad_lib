@@ -306,7 +306,7 @@
 			)
 		)
 	)
-	(model "${AW_LIB}/AW_3D/009155002541006.stp"
+	(model "${AW_LIBS}/AW_3D/009155002541006.stp"
 		(offset
 			(xyz 0 0 0)
 		)

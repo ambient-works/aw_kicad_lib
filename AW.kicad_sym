@@ -8507,7 +8507,7 @@
 			)
 		)
 	)
-	(symbol "Contact 5 - MG0525F"
+	(symbol "Contact 5 - MG052BF-0821"
 		(pin_names
 			(offset 1.016) hide)
 		(exclude_from_sim no)
@@ -8547,7 +8547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector 5 Brass 2.5mm MG0525F TH"
+		(property "Description" "Connector 5 Brass 2.5mm MG052BF-0821F TH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8556,7 +8556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Code" ""
+		(property "Code" "AW-00109"
 			(at 1.27 -5.08 0)
 			(effects
 				(font
@@ -8565,7 +8565,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "MG0525F"
+		(property "MPN" "MG052BF-0821"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8583,7 +8583,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C9900169405"
 			(at 0 0 0)
 			(effects
 				(font
@@ -8610,7 +8610,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Contact 5 - MG0525F_1_1"
+		(symbol "Contact 5 - MG052BF-0821_1_1"
 			(rectangle
 				(start 0 -10.033)
 				(end 1.27 -10.287)

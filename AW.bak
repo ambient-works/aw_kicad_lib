@@ -2469,7 +2469,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1k 0805"
 			(at 0 0 90)
 			(effects
 				(font
