@@ -199,4 +199,15 @@
 		(remove_unused_layers no)
 		(uuid "e3121c97-74ba-4865-8c6d-271325b6166b")
 	)
+	(model "${AW_LIBS}/AW_3D/8200121 5PFemale v1.step"
+		(offset
+			(xyz 0 -2.1 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
