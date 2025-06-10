@@ -1,7 +1,7 @@
 (footprint "SDO_SOD-123FL498_OSI-M"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "MBR120LSFT3G ")
 	(property "Reference" "REF**"
@@ -24,19 +24,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" "SDO_SOD-123FL498_OSI-M"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "2a0ff49e-dc2b-45dd-b25c-2e92e863c5f3")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -69,24 +56,44 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.5748 1.0287)
-		(end 0 1.0287)
+		(start -0.5 -0.5)
+		(end -0.5 0.5)
 		(stroke
-			(width 0.1524)
+			(width 0.2)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "99dca272-05b2-405d-aafe-4cbf3226098d")
+		(uuid "7287fe7a-7d30-47d7-ae7a-edaab0a4658e")
 	)
 	(fp_line
-		(start 0 -1.0287)
-		(end -1.5748 -1.0287)
+		(start -0.5 0)
+		(end 0.5 -0.5)
 		(stroke
-			(width 0.1524)
+			(width 0.2)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "75b5e961-e547-434e-9a1f-a1ad962f5c39")
+		(uuid "8f3bf4af-ad6b-4ad7-8a38-ac7e2e7e910e")
+	)
+	(fp_line
+		(start 0.5 -0.5)
+		(end 0.5 0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "172060d2-87e4-44a7-884e-6fb10c9571cf")
+	)
+	(fp_line
+		(start 0.5 0.5)
+		(end -0.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2e1f522-f9f0-4f4f-a515-e33d7cdb0231")
 	)
 	(fp_line
 		(start -2.7178 -1.0795)
@@ -386,15 +393,16 @@
 	(pad "1" smd rect
 		(at -1.5875 0)
 		(size 1.2446 1.143)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "79740545-b9e2-4e07-a86e-136e28c638cd")
 	)
 	(pad "2" smd rect
 		(at 1.5875 0)
 		(size 1.2446 1.143)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0d7c05dc-e0a7-4c9a-8b27-73d7406ae6df")
 	)
+	(embedded_fonts no)
 	(model "${AW_LIBS}/AW_3D/SDO_SOD-123FL_498__OSI.step"
 		(offset
 			(xyz 0 0 0)
